@@ -1,0 +1,1 @@
+# Spaß Projekte zum üben mit Git
